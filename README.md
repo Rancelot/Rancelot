@@ -1,5 +1,5 @@
 # Hello, I am Rafael :raising_hand_man:
-I am a software developer that focuses on web-based technologies. I am passionate about front end frameworks like ReactJS and have some knowledge on backend mediums like NodeJS. I challenge myself to further my skills through making personal projects. I learn the best through doing with trial and error.
+I am a software developer that focuses on web-based technologies. I am passionate about front-end frameworks like ReactJS and have some knowledge on back-end mediums like NodeJS. I challenge myself to further my skills through making personal projects. I learn the best through doing with trial and error.
 
 
 - :earth_americas: I am currently working on getting a job as a software developer.
