@@ -1,9 +1,9 @@
 # Hello, I am Rafael :raising_hand_man:
-I am a software developer that focuses on web-based technologies. I am passionate about front-end frameworks like ReactJS and have some knowledge on back-end mediums like NodeJS. I challenge myself to further my skills through making personal projects. I learn the best through doing with trial and error.
+I am a software developer that has experience developing in Python, Robot Framework and Java. I am passionate about designing solutions from the ground up through sequence diagrams and utilizing those blueprints to create long lasting applications. I further develop my skills through hands on experience with any active software development tasks I am working on. I learn the best through doing with trial and error.
 
 
-- :earth_americas: I am currently working on getting a job as a software developer.
-- :comet: I am currently acquiring more knowledge by learning about different front and back-end technologies. 
+- :earth_americas: I am currently working as a software developer.
+- :comet: I am acquiring more knowledge on Kubernetes and using AI Agentic technologies. 
 
 ## My Values
 - :briefcase: Dedication and Discipline
